@@ -18,6 +18,9 @@ A lightweight, visually engaging web application that allows users to check the 
 - **Containerization**: Docker
 - **API**: OpenWeatherMap
 
+![image](https://github.com/user-attachments/assets/a81ccc76-1d3a-4485-a650-f1bae9acf619)
+
+
 ## Getting Started
 
 ### Prerequisites
